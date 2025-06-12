@@ -1,1 +1,1 @@
-Continue from: https://guides.rubyonrails.org/getting_started.html#caching-products
+Continue from: https://guides.rubyonrails.org/getting_started.html#adding-css-javascript
